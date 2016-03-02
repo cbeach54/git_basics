@@ -1,1 +1,3 @@
-Git is basically a version control system that takes snapshots of project files. These snapshots are different versions which can be referred back to as needed, without cluttering up a project folder.
+Git is a version control system that takes snapshots of project files. These snapshots are different versions which can be referred back to as needed, without cluttering up a project folder.
+
+You can add and delete parts of a file and they will always be accessible as long as they are saved in a commit.
